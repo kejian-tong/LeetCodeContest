@@ -1,3 +1,7 @@
+package LeetCodeContest.weekly436;
+
+import java.util.PriorityQueue;
+
 class Solution {
     public int[][] sortMatrix(int[][] grid) {
         int n = grid.length;
